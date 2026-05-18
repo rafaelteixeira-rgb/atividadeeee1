@@ -2,7 +2,7 @@
 
 Bem-vindo ao **PortfolioHUB**! Este é um repositório centralizado desenvolvido como parte da **Entrega Intermediária da Disciplina de Versionamento**, com o objetivo de consolidar e organizar meus projetos acadêmicos e pessoais em um perfil profissional robusto.
 
-🔗 **Acesse o portfólio online (GitHub Pages):** [https://rafaelteixeira-rgb.github.io/atividadeeeee1/](https://rafaelteixeira-rgb.github.io/atividadeeeee1/)  
+🔗 **Acesse o portfólio online (GitHub Pages):** [[https://rafaelteixeira-rgb.github.io/atividadeeeee1/](https://rafaelteixeira-rgb.github.io/atividadeeeee1/)  ](https://rafaelteixeira-rgb.github.io/atividadeeee1/)
 💼 **Meu LinkedIn:** [Seu Link do LinkedIn Aqui]  
 🎥 **Apresentação em Vídeo (YouTube):** [Seu Link do Vídeo de 5 Minutos Aqui]
 
